@@ -3,8 +3,14 @@
 **Types of variables available**:
 
 -Date of the flight (month, day of the month, day of the week).
+
+
 -information about the operating carrier (OP_UNIQUE_CARRIER).
+
+
 -the tail number of the plane (TAIL_NUM).
+
+
 -the destination of the flight (DEST),
 -the delay of the departure (DEP_DELAY),
 -the elapsed time of the flight (CRS_ELAPSED_TIME),
