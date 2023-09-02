@@ -1,6 +1,6 @@
 # FinalProject
 
-## Flight details taking off from JFK airport to predict a delay
+## Flight details taking off from JFK airport to predict a delay 
 
 **Types of variables available**:
 
@@ -38,6 +38,9 @@
 
 
 -the taxi-out time (TAXI_OUT).
+
+
+
 
 
 
