@@ -1,7 +1,5 @@
 # FinalProject
 
-
-
 Types of variables available:
 Date of the flight (month, day of the month, day of the week),
 information about the operating carrier (OP_UNIQUE_CARRIER),
@@ -15,4 +13,8 @@ the scheduled and actual arrival time (CRS_ARR_M),
 weather conditions (Temperature, Dew Point, Humidity, Wind, Wind Speed, Wind Gust, Pressure, Condition),
 the scheduled departure and arrival times (sch_dep, sch_arr),
 and the taxi-out time (TAXI_OUT).
+![image](https://github.com/Yunue2110/FinalProject/assets/126638929/a12a39fd-bc45-4867-a8fb-df45a1ab700b)
+
+
+
 
