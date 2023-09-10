@@ -2,6 +2,8 @@
 
 ## Flight details taking off from JFK airport to predict a delay 
 
+La columna "DEP_DELAY" se utiliza para registrar los retrasos o adelantos en la salida de vuelos con respecto a los horarios programados. Los valores positivos representan retrasos, mientras que los valores negativos representan adelantos en la salida.
+
 **Types of variables available**:
 
 -Date of the flight (month, day of the month, day of the week).
