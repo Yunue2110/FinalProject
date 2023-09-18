@@ -53,6 +53,9 @@ La columna "DEP_DELAY" se utiliza para registrar los retrasos o adelantos en la 
 
 
 
+https://www.canva.com/design/DAFuYu8xY3s/rNjTrsUDbBzZ0MFRBsbLgg/edit?utm_content=DAFuYu8xY3s&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
+
+https://public.tableau.com/app/profile/yunue.santamaria/viz/FLIGHTS2_16946655982680/AirportJFK?publish=yes
 
 
 
